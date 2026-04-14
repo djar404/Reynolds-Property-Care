@@ -1,0 +1,38 @@
+<!--
+Design Philosophy: Modern rural utility.
+Metadata and typography should support a clean, trustworthy landscaping brand with local SEO emphasis.
+-->
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <title>Reynolds Property Care | Landscaping & Property Maintenance</title>
+    <meta
+      name="description"
+      content="Reynolds Property Care provides dependable landscaping, lawn maintenance, mulch installation, seasonal cleanup, and property care for residential and commercial clients."
+    />
+    <meta
+      name="keywords"
+      content="Reynolds Property Care, landscaping services near me, lawn mowing, lawn maintenance, mulch installation, seasonal cleanups, snow removal, property maintenance, landscaping company"
+    />
+    <meta name="theme-color" content="#203726" />
+    <meta property="og:title" content="Reynolds Property Care | Landscaping & Property Maintenance" />
+    <meta
+      property="og:description"
+      content="Reliable landscaping and property maintenance for residential and commercial properties."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://d2xsxph8kpxj0f.cloudfront.net/310519663555797569/eJDBBj8HMNLgcDZt4rGKMN/IV8zTVjHj4eC_df2002b2.jpg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script
+      defer
+      src="%VITE_ANALYTICS_ENDPOINT%/umami"
+      data-website-id="%VITE_ANALYTICS_WEBSITE_ID%"></script>
+  </body>
+</html>
